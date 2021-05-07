@@ -1,0 +1,10 @@
+a.out
+assign3
+cs433
+HW1
+HW1EXTRA
+HW2
+main.cpp
+Makefile
+num.txt
+out.txt
